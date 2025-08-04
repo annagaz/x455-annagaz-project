@@ -78,6 +78,11 @@ header .logo a {
     text-align: center; 
 }
 
+.main-nav .nav-links a, 
+.main-nav .nav-links a:visited {
+    color: #1A2B36;
+}
+
 .main-nav .nav-links a:hover {
     color: #A0522D;
 }
